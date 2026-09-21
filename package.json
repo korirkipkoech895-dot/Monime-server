@@ -1,0 +1,16 @@
+{
+  "name": "monime-mobile-money-deposits",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile Money-only deposit API using Monime Checkout Sessions and Payment Codes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
